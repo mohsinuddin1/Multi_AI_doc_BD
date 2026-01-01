@@ -1,0 +1,16 @@
+agno>=2.2.10
+streamlit
+qdrant-client
+pypdf
+duckduckgo-search
+python-dotenv
+groq>=0.9.0
+sentence-transformers>=2.6.0
+
+# streamlit
+# agno
+# qdrant-client
+# duckduckgo-search
+# openai
+# tiktoken
+# python-dotenv
